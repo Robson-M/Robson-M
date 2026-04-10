@@ -2,6 +2,16 @@
 
 Desenvolvedor Full-Stack | Ruby on Rails 
 
+---
+
+Olá! Sou Robson, desenvolvedor full-stack júnior, estudante de Engenharia de Software e apaixonado por construir coisas que funcionam de verdade.
+Comecei minha jornada no desenvolvimento em 2024 de forma autodidata e, desde então, venho acumulando experiência prática através de freelances e trabalho voluntário. Já trabalhei com manutenção de sistemas reais, correção de bugs, refatoração de código legado e implementação de novas funcionalidades.
+Gosto de aprender coisas novas e não tenho medo de código legado.
+Antes da programação, passei 6 anos no comércio — o que me ensinou a me comunicar bem, trabalhar sob pressão e entender o lado humano dos problemas.
+Sempre em evolução. Sempre construindo.
+
+---
+
 ## Contato
 
 <a href = "mailto:robsonmes11@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
